@@ -10,13 +10,13 @@ If this template is your starting point then before the first run:
 - and run 
 
     
-    npm install
+        npm install
 If you want to use this template inside your other angular project then: 
 - Copy the whole folder inside your angular project 
 - Inside angular project run  
     
     
-    npm install --save @babylonjs/gui @babylonjs/core @babylonjs/loaders
+        npm install --save @babylonjs/gui @babylonjs/core @babylonjs/loaders
 
 # Canvas settings
 You can either have one global canvas or canvas for every project separately
